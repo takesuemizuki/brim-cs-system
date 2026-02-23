@@ -1,0 +1,3932 @@
+{
+  "metadata": {
+    "database_version": "1.0",
+    "last_updated": "2026-02-22T05:39:07.521425",
+    "total_products": 91,
+    "data_source": "Amazon商品情報、公式サイト、レビューサイト",
+    "categories": {
+      "電球型ライト": 21,
+      "パネル型ライト": 22,
+      "クリップ型ライト": 20,
+      "アクセサリー": 28
+    }
+  },
+  "products": {
+    "801": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "SOL 24W 白色系 (5800K)",
+      "product_id": "B0B3M47RQJ",
+      "specifications": {
+        "power_consumption": "24W (実測22W)",
+        "color_temperature": "5800K (白色系、昼光色に近い)",
+        "illuminance": "39,600lx (40cm距離)",
+        "ppfd": "656 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 96-98.5",
+        "beam_angle": "40-60度",
+        "socket": "E26",
+        "luminous_flux": "不明",
+        "rated_life": "30,000時間",
+        "dimensions": "9.4×9.4×12.5cm",
+        "weight": "約450g (新型)",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "40-60cm",
+        "coverage_area": "複数株可能",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約178.6円 (31円/kWh)",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "野菜",
+          "ハーブ",
+          "多肉植物"
+        ],
+        "light_requirement": "中～強光を好む植物に適している",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "コストパフォーマンス優秀 (3,000円台)",
+          "太陽光に近いフルスペクトル",
+          "高演色性で植物を美しく鑑賞可能",
+          "初心者向け"
+        ],
+        "advantages": [
+          "手頃な価格",
+          "スタイリッシュなデザイン",
+          "ピンポイント照射が可能"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "発熱あり(触ると熱い)"
+        ]
+      },
+      "faq": [
+        {
+          "question": "ソケットは付属していますか？",
+          "answer": "ライト本体のみです。E26口金対応のソケットを別途ご用意ください。"
+        },
+        {
+          "question": "タイマー機能はありますか？",
+          "answer": "タイマー機能は搭載されていません。別途スマート電源タップの使用を推奨します。"
+        },
+        {
+          "question": "LUNAとの違いは？",
+          "answer": "SOLは白色系(5800K)で青波長がやや高く、LUNAは暖色系(4000K)で赤波長がやや高いです。それ以外のスペックはほぼ同等です。"
+        }
+      ],
+      "comparison": {
+        "similar_products": [
+          {
+            "name": "LUNA 24W",
+            "difference": "色温度と波長バランスが異なる"
+          },
+          {
+            "name": "COSMO 22W",
+            "difference": "COSMOの方が明るくPPFD値が高い (1064)"
+          },
+          {
+            "name": "HaruDesign GL-A",
+            "difference": "ほぼ同スペック、おそらく同じOEM工場製"
+          }
+        ]
+      },
+      "sku": "801"
+    },
+    "815": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "SOL 24W 暖色系 (4000K)",
+      "product_id": "",
+      "specifications": {
+        "power_consumption": "24W (実測22W)",
+        "color_temperature": "4000K (暖色系、温白色)",
+        "illuminance": "39,600lx (40cm距離)",
+        "ppfd": "656 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 96-98.5",
+        "beam_angle": "40-60度",
+        "socket": "E26",
+        "luminous_flux": "不明",
+        "rated_life": "30,000時間",
+        "dimensions": "9.4×9.4×12.5cm",
+        "weight": "約450g (新型)",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "40-60cm",
+        "coverage_area": "複数株可能",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約178.6円 (31円/kWh)",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "野菜",
+          "ハーブ",
+          "多肉植物"
+        ],
+        "light_requirement": "中～強光を好む植物に適している",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "コストパフォーマンス優秀 (3,000円台)",
+          "太陽光に近いフルスペクトル",
+          "高演色性で植物を美しく鑑賞可能",
+          "初心者向け"
+        ],
+        "advantages": [
+          "手頃な価格",
+          "スタイリッシュなデザイン",
+          "ピンポイント照射が可能"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "発熱あり(触ると熱い)"
+        ]
+      },
+      "faq": [
+        {
+          "question": "ソケットは付属していますか？",
+          "answer": "ライト本体のみです。E26口金対応のソケットを別途ご用意ください。"
+        },
+        {
+          "question": "タイマー機能はありますか？",
+          "answer": "タイマー機能は搭載されていません。別途スマート電源タップの使用を推奨します。"
+        },
+        {
+          "question": "LUNAとの違いは？",
+          "answer": "SOLは白色系(5800K)で青波長がやや高く、LUNAは暖色系(4000K)で赤波長がやや高いです。それ以外のスペックはほぼ同等です。"
+        }
+      ],
+      "comparison": {
+        "similar_products": [
+          {
+            "name": "LUNA 24W",
+            "difference": "色温度と波長バランスが異なる"
+          },
+          {
+            "name": "COSMO 22W",
+            "difference": "COSMOの方が明るくPPFD値が高い (1064)"
+          },
+          {
+            "name": "HaruDesign GL-A",
+            "difference": "ほぼ同スペック、おそらく同じOEM工場製"
+          }
+        ]
+      },
+      "sku": "815"
+    },
+    "802": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "LUNA 24W 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "24W (実測22W)",
+        "color_temperature": "4000K (暖色系、温白色)",
+        "illuminance": "68,000lx (1ft/30cm距離)",
+        "ppfd": "1100 µmol/m²/s (1ft/30cm距離)",
+        "color_rendering": "Ra 97",
+        "beam_angle": "40-60度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "weight": "約450g (新型)",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "30-50cm",
+        "coverage_area": "複数株可能",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約178.6円",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "塊根植物",
+          "多肉植物",
+          "観葉植物",
+          "冬に弱く日光を好む植物"
+        ],
+        "light_requirement": "強光を好む植物に最適",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "高PPFD値 (1100)",
+          "暖色系の自然な光",
+          "高演色性 Ra 97",
+          "コストパフォーマンス優秀"
+        ],
+        "advantages": [
+          "自然な色温度",
+          "部屋の雰囲気を損なわない",
+          "植物の色を美しく再現"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "発熱あり"
+        ]
+      },
+      "sku": "802",
+      "product_id": "B0BFGB63J1"
+    },
+    "816": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "LUNA 24W 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "24W (実測22W)",
+        "color_temperature": "5800K (白色系)",
+        "illuminance": "68,000lx (1ft/30cm距離)",
+        "ppfd": "1100 µmol/m²/s (1ft/30cm距離)",
+        "color_rendering": "Ra 97",
+        "beam_angle": "40-60度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "weight": "約450g (新型)",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "30-50cm",
+        "coverage_area": "複数株可能",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約178.6円",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "塊根植物",
+          "多肉植物",
+          "観葉植物",
+          "冬に弱く日光を好む植物"
+        ],
+        "light_requirement": "強光を好む植物に最適",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "高PPFD値 (1100)",
+          "暖色系の自然な光",
+          "高演色性 Ra 97",
+          "コストパフォーマンス優秀"
+        ],
+        "advantages": [
+          "自然な色温度",
+          "部屋の雰囲気を損なわない",
+          "植物の色を美しく再現"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "発熱あり"
+        ]
+      },
+      "sku": "816",
+      "product_id": "B0CCTS4TRB"
+    },
+    "803": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO BK (22W) 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "5800K (白色系)",
+        "illuminance": "65,400lx (40cm距離中心点)",
+        "ppfd": "1064 µmol/m²/s (40cm距離中心点)",
+        "color_rendering": "Ra 97 (97.4-98.6)",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "luminous_flux": "1730lm",
+        "rated_life": "30,000時間",
+        "dimensions": "13.8×11.8cm",
+        "weight": "297g",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約163.7円",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "ビカクシダ",
+          "塊根植物",
+          "観葉植物全般"
+        ],
+        "light_requirement": "中～強光を好む植物に最適",
+        "indoor_outdoor": "室内専用 (屋外レベルの明るさを再現)"
+      },
+      "features": {
+        "key_points": [
+          "5,000円以内で最高性能クラス",
+          "反射板・集光レンズ取り外し可能",
+          "120度の広範囲照射",
+          "高力率 0.98-0.99"
+        ],
+        "advantages": [
+          "コストパフォーマンス最強",
+          "照射範囲を調整可能 (レンズ着脱)",
+          "高演色性で観賞性も高い"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "使用中は発熱 (壁や天井に密着させない)"
+        ]
+      },
+      "installation": {
+        "accessories": "反射板・集光レンズ付き(取り外し可能)",
+        "lens_options": {
+          "集光レンズあり": "真下に集中的に強い光",
+          "集光レンズなし": "広範囲を照射、光は若干弱まる"
+        }
+      },
+      "faq": [
+        {
+          "question": "SOL/LUNAとの違いは？",
+          "answer": "COSMOはPPFD値が1064と最も高く、120度の広角照射が可能です。価格は若干高め。"
+        },
+        {
+          "question": "反射板は取り外せますか？",
+          "answer": "はい、反射板と集光レンズは取り外し可能で、照射範囲を調整できます。"
+        }
+      ],
+      "sku": "803",
+      "product_id": "B0C1CHJRKC",
+      "body_color": "ブラック"
+    },
+    "814": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO WH (22W) 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "5800K (白色系)",
+        "illuminance": "65,400lx (40cm距離中心点)",
+        "ppfd": "1064 µmol/m²/s (40cm距離中心点)",
+        "color_rendering": "Ra 97 (97.4-98.6)",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "luminous_flux": "1730lm",
+        "rated_life": "30,000時間",
+        "dimensions": "13.8×11.8cm",
+        "weight": "297g",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約163.7円",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "ビカクシダ",
+          "塊根植物",
+          "観葉植物全般"
+        ],
+        "light_requirement": "中～強光を好む植物に最適",
+        "indoor_outdoor": "室内専用 (屋外レベルの明るさを再現)"
+      },
+      "features": {
+        "key_points": [
+          "5,000円以内で最高性能クラス",
+          "反射板・集光レンズ取り外し可能",
+          "120度の広範囲照射",
+          "高力率 0.98-0.99"
+        ],
+        "advantages": [
+          "コストパフォーマンス最強",
+          "照射範囲を調整可能 (レンズ着脱)",
+          "高演色性で観賞性も高い"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "使用中は発熱 (壁や天井に密着させない)"
+        ]
+      },
+      "installation": {
+        "accessories": "反射板・集光レンズ付き(取り外し可能)",
+        "lens_options": {
+          "集光レンズあり": "真下に集中的に強い光",
+          "集光レンズなし": "広範囲を照射、光は若干弱まる"
+        }
+      },
+      "faq": [
+        {
+          "question": "SOL/LUNAとの違いは？",
+          "answer": "COSMOはPPFD値が1064と最も高く、120度の広角照射が可能です。価格は若干高め。"
+        },
+        {
+          "question": "反射板は取り外せますか？",
+          "answer": "はい、反射板と集光レンズは取り外し可能で、照射範囲を調整できます。"
+        }
+      ],
+      "sku": "814",
+      "product_id": "",
+      "body_color": "ホワイト"
+    },
+    "804": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO WH (22W) 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "4000K (暖色系)",
+        "illuminance": "65,400lx (40cm距離中心点)",
+        "ppfd": "1064 µmol/m²/s (40cm距離中心点)",
+        "color_rendering": "Ra 97 (97.4-98.6)",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "luminous_flux": "1730lm",
+        "rated_life": "30,000時間",
+        "dimensions": "13.8×11.8cm",
+        "weight": "297g",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約163.7円",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "ビカクシダ",
+          "塊根植物",
+          "観葉植物全般"
+        ],
+        "light_requirement": "中～強光を好む植物に最適",
+        "indoor_outdoor": "室内専用 (屋外レベルの明るさを再現)"
+      },
+      "features": {
+        "key_points": [
+          "5,000円以内で最高性能クラス",
+          "反射板・集光レンズ取り外し可能",
+          "120度の広範囲照射",
+          "高力率 0.98-0.99"
+        ],
+        "advantages": [
+          "コストパフォーマンス最強",
+          "照射範囲を調整可能 (レンズ着脱)",
+          "高演色性で観賞性も高い"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "使用中は発熱 (壁や天井に密着させない)"
+        ]
+      },
+      "installation": {
+        "accessories": "反射板・集光レンズ付き(取り外し可能)",
+        "lens_options": {
+          "集光レンズあり": "真下に集中的に強い光",
+          "集光レンズなし": "広範囲を照射、光は若干弱まる"
+        }
+      },
+      "faq": [
+        {
+          "question": "SOL/LUNAとの違いは？",
+          "answer": "COSMOはPPFD値が1064と最も高く、120度の広角照射が可能です。価格は若干高め。"
+        },
+        {
+          "question": "反射板は取り外せますか？",
+          "answer": "はい、反射板と集光レンズは取り外し可能で、照射範囲を調整できます。"
+        }
+      ],
+      "sku": "804",
+      "product_id": "",
+      "body_color": "ホワイト"
+    },
+    "813": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO BK (22W) 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "4000K (暖色系)",
+        "illuminance": "65,400lx (40cm距離中心点)",
+        "ppfd": "1064 µmol/m²/s (40cm距離中心点)",
+        "color_rendering": "Ra 97 (97.4-98.6)",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "luminous_flux": "1730lm",
+        "rated_life": "30,000時間",
+        "dimensions": "13.8×11.8cm",
+        "weight": "297g",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "monthly_electricity_cost_8h": "約163.7円",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "ビカクシダ",
+          "塊根植物",
+          "観葉植物全般"
+        ],
+        "light_requirement": "中～強光を好む植物に最適",
+        "indoor_outdoor": "室内専用 (屋外レベルの明るさを再現)"
+      },
+      "features": {
+        "key_points": [
+          "5,000円以内で最高性能クラス",
+          "反射板・集光レンズ取り外し可能",
+          "120度の広範囲照射",
+          "高力率 0.98-0.99"
+        ],
+        "advantages": [
+          "コストパフォーマンス最強",
+          "照射範囲を調整可能 (レンズ着脱)",
+          "高演色性で観賞性も高い"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "使用中は発熱 (壁や天井に密着させない)"
+        ]
+      },
+      "installation": {
+        "accessories": "反射板・集光レンズ付き(取り外し可能)",
+        "lens_options": {
+          "集光レンズあり": "真下に集中的に強い光",
+          "集光レンズなし": "広範囲を照射、光は若干弱まる"
+        }
+      },
+      "faq": [
+        {
+          "question": "SOL/LUNAとの違いは？",
+          "answer": "COSMOはPPFD値が1064と最も高く、120度の広角照射が可能です。価格は若干高め。"
+        },
+        {
+          "question": "反射板は取り外せますか？",
+          "answer": "はい、反射板と集光レンズは取り外し可能で、照射範囲を調整できます。"
+        }
+      ],
+      "sku": "813",
+      "product_id": "",
+      "body_color": "ブラック"
+    },
+    "821": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO UV BK 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "20W",
+        "color_temperature": "5800K (白色系)",
+        "illuminance": "64,500lx (40cm距離)",
+        "ppfd": "1064 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 97",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル + UV-A (380-400nm)",
+        "uv_wavelength": "UV-A 380-400nm"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "観葉植物",
+          "徒長しやすい植物"
+        ],
+        "light_requirement": "強光を好む植物、徒長抑制が必要な植物",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "UV-A搭載で徒長抑制",
+          "形態形成促進",
+          "抗病性・免疫向上",
+          "COSMO 20Wベース"
+        ],
+        "advantages": [
+          "適度なUV-Aで植物の健康向上",
+          "徒長抑制効果",
+          "コンパクトで丈夫な株に育つ"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "通常版COSMOより若干価格高"
+        ]
+      },
+      "faq": [
+        {
+          "question": "通常のCOSMOとの違いは？",
+          "answer": "UV-A (380-400nm)が追加搭載されており、徒長抑制や形態形成、抗病性向上の効果があります。"
+        }
+      ],
+      "sku": "821",
+      "product_id": "B0FXGC9WJY",
+      "body_color": "ブラック"
+    },
+    "721": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO UV BK 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "20W",
+        "color_temperature": "5800K (白色系)",
+        "illuminance": "64,500lx (40cm距離)",
+        "ppfd": "1064 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 97",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル + UV-A (380-400nm)",
+        "uv_wavelength": "UV-A 380-400nm"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "観葉植物",
+          "徒長しやすい植物"
+        ],
+        "light_requirement": "強光を好む植物、徒長抑制が必要な植物",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "UV-A搭載で徒長抑制",
+          "形態形成促進",
+          "抗病性・免疫向上",
+          "COSMO 20Wベース"
+        ],
+        "advantages": [
+          "適度なUV-Aで植物の健康向上",
+          "徒長抑制効果",
+          "コンパクトで丈夫な株に育つ"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "通常版COSMOより若干価格高"
+        ]
+      },
+      "faq": [
+        {
+          "question": "通常のCOSMOとの違いは？",
+          "answer": "UV-A (380-400nm)が追加搭載されており、徒長抑制や形態形成、抗病性向上の効果があります。"
+        }
+      ],
+      "sku": "721",
+      "product_id": "",
+      "body_color": "ブラック"
+    },
+    "823": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO UV BK 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "20W",
+        "color_temperature": "4000K (暖色系)",
+        "illuminance": "64,500lx (40cm距離)",
+        "ppfd": "1064 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 97",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル + UV-A (380-400nm)",
+        "uv_wavelength": "UV-A 380-400nm"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "観葉植物",
+          "徒長しやすい植物"
+        ],
+        "light_requirement": "強光を好む植物、徒長抑制が必要な植物",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "UV-A搭載で徒長抑制",
+          "形態形成促進",
+          "抗病性・免疫向上",
+          "COSMO 20Wベース"
+        ],
+        "advantages": [
+          "適度なUV-Aで植物の健康向上",
+          "徒長抑制効果",
+          "コンパクトで丈夫な株に育つ"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "通常版COSMOより若干価格高"
+        ]
+      },
+      "faq": [
+        {
+          "question": "通常のCOSMOとの違いは？",
+          "answer": "UV-A (380-400nm)が追加搭載されており、徒長抑制や形態形成、抗病性向上の効果があります。"
+        }
+      ],
+      "sku": "823",
+      "product_id": "",
+      "body_color": "ブラック"
+    },
+    "824": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO UV WH 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "20W",
+        "color_temperature": "5800K (白色系)",
+        "illuminance": "64,500lx (40cm距離)",
+        "ppfd": "1064 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 97",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル + UV-A (380-400nm)",
+        "uv_wavelength": "UV-A 380-400nm"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "観葉植物",
+          "徒長しやすい植物"
+        ],
+        "light_requirement": "強光を好む植物、徒長抑制が必要な植物",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "UV-A搭載で徒長抑制",
+          "形態形成促進",
+          "抗病性・免疫向上",
+          "COSMO 20Wベース"
+        ],
+        "advantages": [
+          "適度なUV-Aで植物の健康向上",
+          "徒長抑制効果",
+          "コンパクトで丈夫な株に育つ"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "通常版COSMOより若干価格高"
+        ]
+      },
+      "faq": [
+        {
+          "question": "通常のCOSMOとの違いは？",
+          "answer": "UV-A (380-400nm)が追加搭載されており、徒長抑制や形態形成、抗病性向上の効果があります。"
+        }
+      ],
+      "sku": "824",
+      "product_id": "",
+      "body_color": "ホワイト"
+    },
+    "829": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "COSMO UV WH 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "20W",
+        "color_temperature": "4000K (暖色系)",
+        "illuminance": "64,500lx (40cm距離)",
+        "ppfd": "1064 µmol/m²/s (40cm距離)",
+        "color_rendering": "Ra 97",
+        "power_factor": "0.98-0.99",
+        "beam_angle": "120度",
+        "socket": "E26",
+        "rated_life": "30,000時間",
+        "dimming": "なし",
+        "spectrum": "フルスペクトル + UV-A (380-400nm)",
+        "uv_wavelength": "UV-A 380-400nm"
+      },
+      "usage": {
+        "recommended_distance": "40cm",
+        "coverage_area": "約2株",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "E26ソケット",
+          "タイマー(オプション)"
+        ]
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "多肉植物",
+          "アガベ",
+          "観葉植物",
+          "徒長しやすい植物"
+        ],
+        "light_requirement": "強光を好む植物、徒長抑制が必要な植物",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "UV-A搭載で徒長抑制",
+          "形態形成促進",
+          "抗病性・免疫向上",
+          "COSMO 20Wベース"
+        ],
+        "advantages": [
+          "適度なUV-Aで植物の健康向上",
+          "徒長抑制効果",
+          "コンパクトで丈夫な株に育つ"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "ソケット別売り",
+          "通常版COSMOより若干価格高"
+        ]
+      },
+      "faq": [
+        {
+          "question": "通常のCOSMOとの違いは？",
+          "answer": "UV-A (380-400nm)が追加搭載されており、徒長抑制や形態形成、抗病性向上の効果があります。"
+        }
+      ],
+      "sku": "829",
+      "product_id": "",
+      "body_color": "ホワイト"
+    },
+    "701": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "701",
+      "product_name": "SOL UV 22W 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "5800K (白色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル + UV-A",
+        "uv_wavelength": "UV-A搭載"
+      },
+      "features": {
+        "key_points": [
+          "SOLのUV-A搭載バージョン",
+          "徒長抑制効果",
+          "形態形成促進"
+        ]
+      }
+    },
+    "715": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "715",
+      "product_name": "SOL UV 22W 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "4000K (暖色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル + UV-A",
+        "uv_wavelength": "UV-A搭載"
+      },
+      "features": {
+        "key_points": [
+          "SOLのUV-A搭載バージョン",
+          "徒長抑制効果",
+          "形態形成促進"
+        ]
+      }
+    },
+    "702": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "702",
+      "product_name": "LUNA UV 22W 暖色系 (4000K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "4000K (暖色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル + UV-A",
+        "uv_wavelength": "UV-A搭載"
+      },
+      "features": {
+        "key_points": [
+          "LUNAのUV-A搭載バージョン",
+          "徒長抑制効果",
+          "形態形成促進"
+        ]
+      }
+    },
+    "716": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "716",
+      "product_name": "LUNA UV 22W 白色系 (5800K)",
+      "specifications": {
+        "power_consumption": "22W",
+        "color_temperature": "5800K (白色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル + UV-A",
+        "uv_wavelength": "UV-A搭載"
+      },
+      "features": {
+        "key_points": [
+          "LUNAのUV-A搭載バージョン",
+          "徒長抑制効果",
+          "形態形成促進"
+        ]
+      }
+    },
+    "807": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "807",
+      "product_name": "DOME BK 白色系 (5800K)",
+      "body_color": "ブラック",
+      "specifications": {
+        "power_consumption": "18W",
+        "color_temperature": "5800K (白色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル"
+      }
+    },
+    "810": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "810",
+      "product_name": "DOME WH 白色系 (5800K)",
+      "body_color": "ホワイト",
+      "specifications": {
+        "power_consumption": "18W",
+        "color_temperature": "5800K (白色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル"
+      }
+    },
+    "808": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "808",
+      "product_name": "DOME WH 暖色系 (4000K)",
+      "body_color": "ホワイト",
+      "specifications": {
+        "power_consumption": "18W",
+        "color_temperature": "4000K (暖色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル"
+      }
+    },
+    "809": {
+      "brand": "BRIM",
+      "category": "電球型ライト(E26口金)",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "809",
+      "product_name": "DOME BK 暖色系 (4000K)",
+      "body_color": "ブラック",
+      "specifications": {
+        "power_consumption": "18W",
+        "color_temperature": "4000K (暖色系)",
+        "socket": "E26",
+        "spectrum": "フルスペクトル"
+      }
+    },
+    "819": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (1枚) 45W 温白色",
+      "specifications": {
+        "power_consumption": "45W",
+        "color_temperature": "3700K (温白色)",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約334.8円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "819",
+      "product_id": "B0CP4BWTK7"
+    },
+    "820": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (2枚) 45W 温白色",
+      "specifications": {
+        "power_consumption": "45W",
+        "color_temperature": "3700K (温白色)",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約669.6円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "820",
+      "product_id": ""
+    },
+    "839": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (1枚) 45W 白色",
+      "specifications": {
+        "power_consumption": "45W",
+        "color_temperature": "5200K (白色)",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約334.8円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "839",
+      "product_id": ""
+    },
+    "840": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (2枚) 45W 白色",
+      "specifications": {
+        "power_consumption": "45W",
+        "color_temperature": "5200K (白色)",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約669.6円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "840",
+      "product_id": ""
+    },
+    "825": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A  45W 電球色",
+      "specifications": {
+        "power_consumption": "45W",
+        "color_temperature": "電球色",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約334.8円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "825",
+      "product_id": ""
+    },
+    "826": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A  45W 電球色 2枚セット",
+      "specifications": {
+        "power_consumption": "45W",
+        "color_temperature": "電球色 2枚セット",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約669.6円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "826",
+      "product_id": ""
+    },
+    "851": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (1枚) 65W 温白色",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "温白色",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約483円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "851",
+      "product_id": ""
+    },
+    "853": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (1枚) 65W 白色",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "白色",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約483円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "853",
+      "product_id": ""
+    },
+    "859": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (2枚) 65W 温白色",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "温白色",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約966円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "859",
+      "product_id": ""
+    },
+    "860": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "PANEL A (2枚) 65W 白色",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "白色",
+        "ppfd_20cm": "532 µmol/m²/s",
+        "ppfd_10cm": "964 µmol/m²/s",
+        "color_rendering": "Ra 90-94",
+        "dimensions": "30×30×4cm",
+        "weight": "400g",
+        "spectrum": "フルスペクトル IR/UV搭載",
+        "led_chips": "5種類のLEDチップ"
+      },
+      "usage": {
+        "recommended_distance": "10-20cm",
+        "coverage_area": "広範囲 (パネルタイプ)",
+        "daily_usage_hours": "8-12時間推奨",
+        "requires_separate_purchase": [
+          "タイマー(オプション)",
+          "吊り下げ金具(付属)"
+        ],
+        "monthly_electricity_cost_8h": "約966円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "育苗",
+          "観葉植物",
+          "多肉植物",
+          "アガベ",
+          "実生株"
+        ],
+        "light_requirement": "幅広い植物に対応",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "ベーシックモデル",
+          "広範囲を均一に照射",
+          "IR/UV搭載",
+          "隔離型安全設計"
+        ],
+        "advantages": [
+          "パネル型で広範囲カバー",
+          "手頃な価格",
+          "放熱性能優秀",
+          "日本ブランドの安心感"
+        ],
+        "disadvantages": [
+          "タイマー機能なし",
+          "調光機能なし",
+          "取り付けがやや大変"
+        ]
+      },
+      "installation": {
+        "mounting_type": "吊り下げ式",
+        "accessories": "ロープラチェット×1、フックワイヤースリング×1 (4本セット)"
+      },
+      "safety": {
+        "design": "隔離型 (電気ショックリスク低減)",
+        "heat_dissipation": "薄型アルミ板 + 接続部保護処理"
+      },
+      "sku": "860",
+      "product_id": ""
+    },
+    "843": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "843",
+      "product_name": "PANEL X 301H 100W (4000K)",
+      "specifications": {
+        "power_consumption": "最大100W",
+        "color_temperature": "4000K (温白色)",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "spectrum": "フルスペクトル UVA+IR"
+      },
+      "features": {
+        "key_points": [
+          "上位モデル",
+          "無段階調光",
+          "防水IP65",
+          "機能性重視"
+        ]
+      }
+    },
+    "844": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "844",
+      "product_name": "PANEL X 301H 100W (5000K-5500K)",
+      "specifications": {
+        "power_consumption": "最大100W",
+        "color_temperature": "5000K-5500K (昼白色)",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "spectrum": "フルスペクトル UVA+IR"
+      },
+      "features": {
+        "key_points": [
+          "上位モデル",
+          "無段階調光",
+          "防水IP65",
+          "機能性重視"
+        ]
+      }
+    },
+    "841": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "841",
+      "product_name": "PANEL X 281B Pro 65W (4000K)",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "4000K (温白色)",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "spectrum": "フルスペクトル"
+      },
+      "features": {
+        "key_points": [
+          "価格重視モデル",
+          "無段階調光",
+          "防水IP65"
+        ]
+      }
+    },
+    "842": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "842",
+      "product_name": "PANEL X 281B Pro 65W (5000K-5500K)",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "5000K-5500K (昼白色)",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "spectrum": "フルスペクトル"
+      },
+      "features": {
+        "key_points": [
+          "価格重視モデル",
+          "無段階調光",
+          "防水IP65"
+        ]
+      }
+    },
+    "845": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "845",
+      "product_name": "PANEL Y 281B 温白色 (65W)",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "温白色",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "led": "LM281B+",
+        "spectrum": "フルスペクトル UVA+IR"
+      }
+    },
+    "846": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "846",
+      "product_name": "PANEL Y 281B 昼白色 (65W)",
+      "specifications": {
+        "power_consumption": "65W",
+        "color_temperature": "昼白色",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "led": "LM281B+",
+        "spectrum": "フルスペクトル UVA+IR"
+      }
+    },
+    "847": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "847",
+      "product_name": "PANEL Y 281B 温白色 (100W)",
+      "specifications": {
+        "power_consumption": "100W",
+        "color_temperature": "温白色",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "led": "LM281B+",
+        "spectrum": "フルスペクトル UVA+IR"
+      }
+    },
+    "848": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "848",
+      "product_name": "PANEL Y 281B 昼白色 (100W)",
+      "specifications": {
+        "power_consumption": "100W",
+        "color_temperature": "昼白色",
+        "dimming": "無段階調光",
+        "waterproof": "IP65",
+        "led": "LM281B+",
+        "spectrum": "フルスペクトル UVA+IR"
+      }
+    },
+    "707": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "707",
+      "product_name": "PANEL DUO 14W 3500K 1pcs",
+      "specifications": {
+        "power_consumption": "14W",
+        "color_temperature": "3500K",
+        "spectrum": "フルスペクトル"
+      },
+      "features": {
+        "key_points": [
+          "コンパクトパネル",
+          "省スペース"
+        ]
+      }
+    },
+    "708": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "708",
+      "product_name": "PANEL DUO 14W 3500K 2pcs",
+      "specifications": {
+        "power_consumption": "14W",
+        "color_temperature": "3500K",
+        "spectrum": "フルスペクトル"
+      },
+      "features": {
+        "key_points": [
+          "コンパクトパネル",
+          "省スペース"
+        ]
+      }
+    },
+    "709": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "709",
+      "product_name": "PANEL DUO 14W 5000K 1pcs",
+      "specifications": {
+        "power_consumption": "14W",
+        "color_temperature": "5000K",
+        "spectrum": "フルスペクトル"
+      },
+      "features": {
+        "key_points": [
+          "コンパクトパネル",
+          "省スペース"
+        ]
+      }
+    },
+    "710": {
+      "brand": "BRIM",
+      "category": "パネル型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "710",
+      "product_name": "PANEL DUO 14W 5000K 2pcs",
+      "specifications": {
+        "power_consumption": "14W",
+        "color_temperature": "5000K",
+        "spectrum": "フルスペクトル"
+      },
+      "features": {
+        "key_points": [
+          "コンパクトパネル",
+          "省スペース"
+        ]
+      }
+    },
+    "895": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 1ヘッド, BK 白色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "約10W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "1ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約74円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "895",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "896": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 1ヘッド, BK 暖色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "約10W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "1ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約74円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "896",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "897": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 1ヘッド, WH 白色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "約10W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "1ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約74円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "897",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "898": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 1ヘッド, WH 暖色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "約10W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "1ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約74円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "898",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "831": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, BK 白色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "831",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "832": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, BK 暖色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "832",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "833": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, BK 白色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "833",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "834": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, BK 暖色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "834",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "835": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, WH 白色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "835",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "836": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, WH 暖色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "836",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "837": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, WH 白色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "837",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "838": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, WH 暖色系",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "838",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": false
+      }
+    },
+    "871": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, BK 白色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "871",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "872": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, BK 暖色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "872",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "873": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, BK 白色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "873",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "874": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, BK 暖色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "874",
+      "body_color": "ブラック",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "875": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, WH 白色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "875",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "876": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 2ヘッド, WH 暖色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "19W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "2ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約142円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "876",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "877": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, WH 白色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "4000K-4500K (白色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "877",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "878": {
+      "brand": "BRIM",
+      "category": "クリップ型ライト",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "product_name": "FLORA 3ヘッド, WH 暖色系 スタンド付",
+      "specifications": {
+        "dimming": "調光機能あり",
+        "timer": "タイマー機能あり (8h/12h/16h)",
+        "color_rendering": "Ra 94.6",
+        "cable_length": "2.4m (クリップ～電源アダプタ)",
+        "arm_length": "66cm (クリップ～先端)",
+        "spectrum": "フルスペクトル",
+        "power_consumption": "26W",
+        "color_temperature": "3000K (暖色系)",
+        "heads": "3ヘッド"
+      },
+      "usage": {
+        "installation": "クリップ式 (挟むだけ)",
+        "daily_usage_hours": "タイマーで自動化可能",
+        "requires_separate_purchase": [],
+        "monthly_electricity_cost_8h": "約190円"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物",
+          "多肉植物",
+          "ハーブ",
+          "小型植物"
+        ],
+        "light_requirement": "初心者向け、設置が簡単",
+        "indoor_outdoor": "室内専用"
+      },
+      "features": {
+        "key_points": [
+          "タイマー・調光機能付き",
+          "クリップで簡単設置",
+          "フレキシブルアーム",
+          "初心者におすすめ"
+        ],
+        "advantages": [
+          "ソケット不要",
+          "自動点灯・消灯",
+          "アームで角度自由",
+          "スタンド付きモデルもあり"
+        ],
+        "disadvantages": [
+          "アームの保持力に個体差あり",
+          "広範囲照射には向かない"
+        ]
+      },
+      "sku": "878",
+      "body_color": "ホワイト",
+      "accessories": {
+        "stand_included": true
+      }
+    },
+    "880": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "880",
+      "product_name": "FLORA アダプタ BK",
+      "specifications": {
+        "color": "ブラック",
+        "compatible_with": "FLORA"
+      }
+    },
+    "881": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "881",
+      "product_name": "FLORA アダプタ WH",
+      "specifications": {
+        "color": "ホワイト",
+        "compatible_with": "FLORA"
+      }
+    },
+    "882": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "882",
+      "product_name": "FLORA スタンド 1pcs",
+      "specifications": {
+        "compatible_with": "FLORA"
+      }
+    },
+    "805": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "805",
+      "product_name": "CS01-BK",
+      "specifications": {
+        "socket": "E26",
+        "cord_length": "1.5m",
+        "switch": "あり",
+        "color": "ブラック",
+        "compatible_with": "電球型ライト全般"
+      }
+    },
+    "806": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "806",
+      "product_name": "CS01-WH",
+      "specifications": {
+        "socket": "E26",
+        "cord_length": "1.5m",
+        "switch": "あり",
+        "color": "ホワイト",
+        "compatible_with": "電球型ライト全般"
+      }
+    },
+    "827": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "827",
+      "product_name": "CS01-BK-L",
+      "specifications": {
+        "socket": "E26",
+        "cord_length": "1.8m",
+        "switch": "あり",
+        "color": "ブラック",
+        "compatible_with": "電球型ライト全般"
+      }
+    },
+    "828": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "828",
+      "product_name": "CS01-WH-L",
+      "specifications": {
+        "socket": "E26",
+        "cord_length": "1.8m",
+        "switch": "あり",
+        "color": "ホワイト",
+        "compatible_with": "電球型ライト全般"
+      }
+    },
+    "855": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "855",
+      "product_name": "CS02-BK クランプ式",
+      "specifications": {
+        "socket": "E26",
+        "type": "クランプ式",
+        "color": "ブラック",
+        "compatible_with": "電球型ライト全般"
+      }
+    },
+    "856": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "856",
+      "product_name": "CS02-WH クランプ式",
+      "specifications": {
+        "socket": "E26",
+        "type": "クランプ式",
+        "color": "ホワイト",
+        "compatible_with": "電球型ライト全般"
+      }
+    },
+    "885": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "885",
+      "product_name": "S02-BK ライティングレールソケット (2個)",
+      "specifications": {
+        "socket": "E26",
+        "max_weight": "500gまで",
+        "angle_adjustment": "照射角度調節可能",
+        "use": "ダクトレール用",
+        "pack_size": "2個",
+        "color": "ブラック",
+        "compatible_with": "電球型ライト (500g以下)"
+      }
+    },
+    "886": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "886",
+      "product_name": "S02-WH ライティングレールソケット (2個)",
+      "specifications": {
+        "socket": "E26",
+        "max_weight": "500gまで",
+        "angle_adjustment": "照射角度調節可能",
+        "use": "ダクトレール用",
+        "pack_size": "2個",
+        "color": "ホワイト",
+        "compatible_with": "電球型ライト (500g以下)"
+      }
+    },
+    "887": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "887",
+      "product_name": "S02-BK ライティングレールソケット (4個)",
+      "specifications": {
+        "socket": "E26",
+        "max_weight": "500gまで",
+        "angle_adjustment": "照射角度調節可能",
+        "use": "ダクトレール用",
+        "pack_size": "4個",
+        "color": "ブラック",
+        "compatible_with": "電球型ライト (500g以下)"
+      }
+    },
+    "888": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "888",
+      "product_name": "S02-WH ライティングレールソケット (4個)",
+      "specifications": {
+        "socket": "E26",
+        "max_weight": "500gまで",
+        "angle_adjustment": "照射角度調節可能",
+        "use": "ダクトレール用",
+        "pack_size": "4個",
+        "color": "ホワイト",
+        "compatible_with": "電球型ライト (500g以下)"
+      }
+    },
+    "861": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "861",
+      "product_name": "HMT-330 1枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "33×33cm",
+        "pack": "1枚"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "863": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "863",
+      "product_name": "HMT-400 1枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "40×40cm",
+        "pack": "1枚"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "869": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "869",
+      "product_name": "HMT-330 2枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "33×33cm",
+        "pack": "2枚"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "870": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "870",
+      "product_name": "HMT-400 2枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "40×40cm",
+        "pack": "2枚"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "857": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "857",
+      "product_name": "HMT-330S 1枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "33×33cm",
+        "pack": "1枚",
+        "features": "サーモスタット付き"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "858": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "858",
+      "product_name": "HMT-330S 2枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "33×33cm",
+        "pack": "2枚",
+        "features": "サーモスタット付き"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "889": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "889",
+      "product_name": "HMT-830 1枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "33×83cm",
+        "pack": "1枚",
+        "power_consumption": "100W",
+        "features": "デジタル表示、IP67防水"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "890": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "890",
+      "product_name": "HMT-830 2枚",
+      "subcategory": "ヒートマット",
+      "specifications": {
+        "size": "33×83cm",
+        "pack": "2枚",
+        "power_consumption": "100W",
+        "features": "デジタル表示、IP67防水"
+      },
+      "plant_compatibility": {
+        "suitable_for": [
+          "観葉植物全般",
+          "塊根植物",
+          "多肉植物",
+          "育苗"
+        ],
+        "use_case": "冬季の保温、発芽促進"
+      }
+    },
+    "865": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "865",
+      "product_name": "アルミシェード95 ブラック 1枚",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "ブラック",
+        "pack": "1枚",
+        "material": "アルミニウム"
+      }
+    },
+    "766": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "766",
+      "product_name": "アルミシェード95 ブラック 2枚セット",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "ブラック",
+        "pack": "2枚セット",
+        "material": "アルミニウム"
+      }
+    },
+    "891": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "891",
+      "product_name": "アルミシェード95 ブラック 2枚セット",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "ブラック",
+        "pack": "2枚セット",
+        "material": "アルミニウム"
+      }
+    },
+    "867": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "867",
+      "product_name": "アルミシェード95 シルバー 1枚",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "シルバー",
+        "pack": "1枚",
+        "material": "アルミニウム"
+      }
+    },
+    "892": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "892",
+      "product_name": "アルミシェード95 シルバー 2枚セット",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "シルバー",
+        "pack": "2枚セット",
+        "material": "アルミニウム"
+      }
+    },
+    "893": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "893",
+      "product_name": "アルミシェード95 ブラック 1枚",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "ブラック",
+        "pack": "1枚",
+        "material": "アルミニウム"
+      }
+    },
+    "894": {
+      "brand": "BRIM",
+      "category": "アクセサリー",
+      "warranty": "1年間メーカー保証 (アンケート登録で2年)",
+      "availability": "Amazon、楽天、公式サイトで販売",
+      "made_in": "企画: 日本 (BRIM合同会社、東京都港区) / 製造: 中国",
+      "safety_standard": "PSEマーク取得",
+      "green_advisor_recommended": true,
+      "sku": "894",
+      "product_name": "アルミシェード95 シルバー 2枚セット",
+      "subcategory": "シェード",
+      "specifications": {
+        "size": "95mm",
+        "color": "シルバー",
+        "pack": "2枚セット",
+        "material": "アルミニウム"
+      }
+    }
+  }
+}
