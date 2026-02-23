@@ -1,4 +1,4 @@
 streamlit
 anthropic
 sqlalchemy>=2.0.36
-psycopg[binary]
+psycopg2-binary
