@@ -146,9 +146,9 @@ def search_similar_qa(session, query_text: str, top_k: int = 5) -> List[Dict]:
     try:
         sql = text("""
             SELECT id, question, answer, category, platform,
-                   1 - (embedding <=> :emb::vector) AS similarity
+                   1 - (embedding <=> cast(:emb AS vector)) AS similarity
             FROM brim_qa
-            ORDER BY embedding <=> :emb::vector
+            ORDER BY embedding <=> cast(:emb AS vector)
             LIMIT :top_k
         """)
         
@@ -186,7 +186,7 @@ def add_correction_to_qa(session, question: str, corrected_answer: str, category
     try:
         sql = text("""
             INSERT INTO brim_qa (question, answer, platform, category, embedding, created_at)
-            VALUES (:question, :answer, :platform, :category, :emb::vector, NOW())
+            VALUES (:question, :answer, :platform, :category, cast(:emb AS vector), NOW())
         """)
         
         session.execute(sql, {
